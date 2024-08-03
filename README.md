@@ -50,3 +50,8 @@ pip install requests
 ### 6. Run the script
 ```
 python3 weathernotifier.py
+
+
+### 7. Bonus tips
+
+You will need to have this running in a tmux session with an always powered on computer running this, either in the cloud or on a physical machine.
