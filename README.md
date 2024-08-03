@@ -30,11 +30,23 @@ This project fetches weather forecast data and sends notifications to your phone
 git clone https://github.com/yourusername/weathernotifier.git
 cd weathernotifier
 ```
-### 4. Install Required Python Libraries
+### 4. Configure the Script
+
+Open the script file in a text editor and replace the placeholders with your actual values:
+
+    Replace 'your_api_key' with your actual API key from your weather data provider.
+    Replace 'your_latitude' with your actual latitude.
+    Replace 'your_longitude' with your actual longitude.
+    Replace 'your_location_name' with the name of your location (e.g., city name).
+    Replace 'your_api_token' with your actual Pushover API token.
+    Replace 'your_user_key' with your actual Pushover user key.
+
+
+### 5. Install Required Python Libraries
 ```
 pip install requests
 ```
 
-### 5. Run the script
+### 6. Run the script
 ```
 python3 weathernotifier.py
