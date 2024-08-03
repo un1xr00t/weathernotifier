@@ -29,8 +29,7 @@ This project fetches weather forecast data and sends notifications to your phone
 ```bash
 git clone https://github.com/yourusername/weathernotifier.git
 cd weathernotifier
-
+```
 ### 4. Install Required Python Libraries
-
 ```
 pip install requests
