@@ -33,3 +33,7 @@ cd weathernotifier
 ### 4. Install Required Python Libraries
 ```
 pip install requests
+
+### 5. Run the script
+```
+python3 weathernotifier.py
