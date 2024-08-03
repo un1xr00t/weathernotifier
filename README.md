@@ -56,4 +56,4 @@ python3 weathernotifier.py
 
 ### 7. Bonus tips
 
-You will need to have this running in a tmux session with an always powered on computer running this, either in the cloud or on a physical machine.\n If you choose to use the cloud, just put a crontab entry to run this weatherchecker at any specified time you pick.
+You will need to have this running in a tmux session with an always powered on computer running this, either in the cloud or on a physical machine. If you choose to use the cloud, just put a crontab entry to run this weatherchecker at any specified time you pick.
