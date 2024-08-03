@@ -15,6 +15,8 @@ This project fetches weather forecast data and sends notifications to your phone
 1. Download and install the Pushover app on your phone:
    - [Pushover for iOS](https://apps.apple.com/app/id506088175)
    - [Pushover for Android](https://play.google.com/store/apps/details?id=net.superblock.pushover)
+   - A computer (local or cloud) that is always powered on or scheduled to run the script
+   - GitHub account (optional, for version control and hosting)
 
 2. Sign up for a Pushover account on the app or [Pushover website](https://pushover.net/).
 
@@ -50,8 +52,8 @@ pip install requests
 ### 6. Run the script
 ```
 python3 weathernotifier.py
-
+```
 
 ### 7. Bonus tips
 
-You will need to have this running in a tmux session with an always powered on computer running this, either in the cloud or on a physical machine.
+You will need to have this running in a tmux session with an always powered on computer running this, either in the cloud or on a physical machine.\n If you choose to use the cloud, just put a crontab entry to run this weatherchecker at any specified time you pick.
