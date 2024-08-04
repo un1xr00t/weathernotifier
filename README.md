@@ -5,7 +5,7 @@ This project fetches weather forecast data and sends notifications to your phone
 ## Prerequisites
 
 - Python 3.x
-- Pushover app installed on your phonae (iOS or Android)
+- Pushover app installed on your phone (iOS or Android)
 - GitHub account (optional, for version control and hosting)
 
 ## Setup Guide
